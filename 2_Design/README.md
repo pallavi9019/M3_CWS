@@ -37,8 +37,7 @@ Pin 7 to 14 are D0-D7 which are the data lines. They are connected to PORT A of 
 The pin 15 and 16 are for LCD back light and those pins will be connected to Vcc And Gnd.
 
 ## BLOCK DIAGRAM
-![image](https://user-images.githubusercontent.com/86293096/164385451-c0f76634-d7a3-4768-b87c-1a345efc4985.png)
-
+![image](https://user-images.githubusercontent.com/86293096/168312514-b4ee6ec3-75cc-402f-b1e7-7f81c41a5ab1.png)
 ## CIRCUIT DIAGRAM
 
 ![image](https://github.com/pallavi9019/M2_DISTANCE/blob/2dfdeb701eaad32a45dac839476b1f4e143fdc7b/2_Design/Circuit%20diagram/distancefinder.png)
